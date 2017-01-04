@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/SmallPluginDemo.iml" filepath="$PROJECT_DIR$/SmallPluginDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.orderlist/app.orderlist.iml" filepath="$PROJECT_DIR$/app.orderlist/app.orderlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.welcome/app.welcome.iml" filepath="$PROJECT_DIR$/app.welcome/app.welcome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.youmeng/lib.youmeng.iml" filepath="$PROJECT_DIR$/lib.youmeng/lib.youmeng.iml" />
     </modules>
   </component>
 </project>

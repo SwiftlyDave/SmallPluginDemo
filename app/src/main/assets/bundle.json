@@ -4,6 +4,14 @@
     {
       "uri": "main",
       "pkg": "org.huihui.smallplugindemo.app.main"
+    },
+    {
+      "uri": "welcome",
+      "pkg": "org.huihui.smallplugindemo.app.welcome"
+    },
+    {
+      "uri": "orderlist",
+      "pkg": "org.huihui.smallplugindemo.app.welcome"
     }
   ]
 }

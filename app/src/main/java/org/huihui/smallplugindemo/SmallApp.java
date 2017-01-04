@@ -32,7 +32,7 @@ public class SmallApp extends Application {
         // If you have some native web modules, uncomment following
         // to declare a base URI for cross-platform page jumping.
         //
-        // Small.setBaseUri("https://your_domain/path");
+         Small.setBaseUri("https://huihui.org/");
         //
     }
 }
