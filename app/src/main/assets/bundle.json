@@ -3,15 +3,15 @@
   "bundles": [
     {
       "uri": "main",
-      "pkg": "org.huihui.smallplugindemo.app.main"
+      "pkg": "org.huihui.app.main"
     },
     {
       "uri": "welcome",
-      "pkg": "org.huihui.smallplugindemo.app.welcome"
+      "pkg": "org.huihui.app.welcome"
     },
     {
       "uri": "orderlist",
-      "pkg": "org.huihui.smallplugindemo.app.welcome"
+      "pkg": "org.huihui.app.welcome"
     }
   ]
 }
